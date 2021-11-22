@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asifmohammed96
-- 👀 I’m interested in software development
+- 👀 I have  interests on Software development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on peoples who knows software development
 
